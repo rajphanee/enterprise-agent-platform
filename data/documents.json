@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pto-policy",
+    "title": "Paid Time Off Policy",
+    "allowed_roles": ["employee", "engineer", "hr", "finance", "admin"],
+    "text": "Full-time employees get 20 PTO days per year. PTO requests must be submitted in the HR portal at least two weeks in advance.\n\nUp to 5 unused days carry over into January. Carry-over balances expire on March 31."
+  },
+  {
+    "id": "vpn-guide",
+    "title": "VPN Setup Guide",
+    "allowed_roles": ["employee", "engineer", "hr", "finance", "admin"],
+    "text": "Connect to the corporate VPN using the GlobalConnect client. VPN access requires multi-factor authentication.\n\nIf the VPN disconnects repeatedly, restart the GlobalConnect client and clear cached credentials. If that fails, open an IT ticket."
+  },
+  {
+    "id": "expense-policy",
+    "title": "Expense Reimbursement Policy",
+    "allowed_roles": ["employee", "engineer", "hr", "finance", "admin"],
+    "text": "Expenses above 500 dollars need manager approval before purchase. Receipts must be uploaded within 30 days of the expense. Travel bookings must go through the corporate travel tool."
+  },
+  {
+    "id": "salary-bands",
+    "title": "Salary Bands 2026",
+    "allowed_roles": ["hr", "admin"],
+    "text": "Engineer II salary band ranges from 140,000 to 175,000 dollars. Senior Engineer salary band ranges from 170,000 to 215,000 dollars. Band adjustments are reviewed every January."
+  },
+  {
+    "id": "q3-forecast",
+    "title": "Q3 Revenue Forecast",
+    "allowed_roles": ["finance", "admin"],
+    "text": "The Q3 revenue forecast is 48 million dollars. Cloud spend is projected to grow 12 percent quarter over quarter."
+  },
+  {
+    "id": "prod-runbook",
+    "title": "Production Deployment Runbook",
+    "allowed_roles": ["engineer", "admin"],
+    "text": "Production deployments happen on Tuesday and Thursday after 6pm Pacific. Every production deployment needs an approved change request.\n\nRollback steps must be tested in staging before the deployment window opens."
+  }
+]

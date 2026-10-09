@@ -1,0 +1,9 @@
+[
+  {"id": "T-1001", "requester": "alice", "text": "I forgot my password and my account is locked"},
+  {"id": "T-1002", "requester": "bob", "text": "VPN keeps disconnecting every few minutes"},
+  {"id": "T-1003", "requester": "carol", "text": "Please install the Figma application on my laptop, I need a license"},
+  {"id": "T-1004", "requester": "dave", "text": "Need access to the finance repo in GitHub"},
+  {"id": "T-1005", "requester": "erin", "text": "Deploy the hotfix to production tonight"},
+  {"id": "T-1006", "requester": "frank", "text": "The coffee machine on floor 3 makes a strange noise"},
+  {"id": "T-1007", "requester": "grace", "text": "Please install the database client on the prod jump box"}
+]

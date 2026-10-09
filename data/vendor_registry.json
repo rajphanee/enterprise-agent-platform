@@ -1,0 +1,4 @@
+[
+  {"vendor_id": "V-1001", "legal_name": "Northwind Traders Inc", "tax_id": "45-6789012"},
+  {"vendor_id": "V-1002", "legal_name": "Contoso Supplies LLC", "tax_id": "98-7654321"}
+]

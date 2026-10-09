@@ -1,0 +1,52 @@
+[
+  {
+    "legal_name": "Acme Cloud Services LLC",
+    "tax_id": "12-3456789",
+    "contact_email": "ap@acmecloud.example.com",
+    "bank": {"bank_name": "Chase", "account_holder_name": "Acme Cloud Services, L.L.C.",
+             "routing_number": "021000021", "account_number": "000123456789"},
+    "insurance": {"provider": "Hartford", "coverage_amount": 2000000, "expiry_date": "2030-08-31"},
+    "payment_terms": "NET30", "annual_spend_estimate": 120000,
+    "msa_signed": true, "w9_received": true
+  },
+  {
+    "legal_name": "Brightpath Logistics Inc",
+    "tax_id": "123456789",
+    "contact_email": "billing@brightpath",
+    "bank": {"bank_name": "Bank of America", "account_holder_name": "Bright Path Freight",
+             "routing_number": "121000358", "account_number": "998877665"},
+    "insurance": {"provider": "Travelers", "coverage_amount": 500000, "expiry_date": "2025-12-31"},
+    "payment_terms": "NET30", "annual_spend_estimate": 40000,
+    "msa_signed": true, "w9_received": true
+  },
+  {
+    "legal_name": "Shadow Trading Co",
+    "tax_id": "34-5678901",
+    "contact_email": "info@shadowtrading.example.com",
+    "bank": {"bank_name": "Chase", "account_holder_name": "Shadow Trading Co",
+             "routing_number": "021000021", "account_number": "11223344"},
+    "insurance": {"provider": "AIG", "coverage_amount": 1500000, "expiry_date": "2030-01-31"},
+    "payment_terms": "NET30", "annual_spend_estimate": 10000,
+    "msa_signed": true, "w9_received": true
+  },
+  {
+    "legal_name": "Northwind Traders",
+    "tax_id": "45-6789012",
+    "contact_email": "ap@northwind.example.com",
+    "bank": {"bank_name": "Wells Fargo", "account_holder_name": "Northwind Traders",
+             "routing_number": "021000021", "account_number": "55667788"},
+    "insurance": {"provider": "Chubb", "coverage_amount": 3000000, "expiry_date": "2030-05-31"},
+    "payment_terms": "NET45", "annual_spend_estimate": 75000,
+    "msa_signed": true, "w9_received": true
+  },
+  {
+    "legal_name": "Greenleaf Consulting LLC",
+    "tax_id": "56-7890123",
+    "contact_email": "finance@greenleaf.example.com",
+    "bank": {"bank_name": "Bank of America", "account_holder_name": "Greenleaf Consulting LLC",
+             "routing_number": "121000358", "account_number": "44556677"},
+    "insurance": {"provider": "Hartford", "coverage_amount": 1000000, "expiry_date": "2030-11-30"},
+    "payment_terms": "NET90", "annual_spend_estimate": 300000,
+    "msa_signed": false, "w9_received": true
+  }
+]

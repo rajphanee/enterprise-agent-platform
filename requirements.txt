@@ -1,0 +1,2 @@
+# Offline mode (tests, CI, demo) needs only pytest. Everything else is stdlib.
+pytest>=7.0
